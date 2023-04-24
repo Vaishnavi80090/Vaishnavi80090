@@ -1,5 +1,6 @@
 ### Hi there 👋
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fvirginiaestrell%2Fgithub%2F&psig=AOvVaw3lJ2huKmpV_hG4Puac12zX&ust=1682414748842000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKjV8b2Zwv4CFQAAAAAdAAAAABAE
+
+
 # 💫 About Me:
 Aspiring Data Scientist<br>I'm self-taught passionate  with data.
 
