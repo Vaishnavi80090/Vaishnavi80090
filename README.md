@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-https://avatars.githubusercontent.com/u/124246290?s=400&u=1addf620a14e6e24cdf57df64546d07d24f213bb&v=4
+
 
 # 💫 About Me:
 Aspiring Data Scientist<br>I'm self-taught passionate  with data.
